@@ -1,0 +1,11 @@
+[package]
+name = "transaction-bellman"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.4"
+bit-vec = "0.4.4"
+pairing = "0.14"
+byteorder = "1"
+bellman = "0.1.0"
